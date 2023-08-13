@@ -10,7 +10,7 @@ from langchain.chains.question_answering import load_qa_chain
 from langchain.callbacks import get_openai_callback
 import os
 
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "sk-**************************"
 
 st.title('INNERCIRCLE BOT')
 st.sidebar.title('Developed by UNORTHODOX')
